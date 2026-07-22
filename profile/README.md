@@ -16,14 +16,14 @@ R Markdown, and Shiny.
 | Project | Description |
 |---|---|
 | [upsetly](https://github.com/Rbunensi/upsetly) | Interactive UpSet plots built with Plotly, with copyable intersection details for Quarto, R Markdown, and Shiny. 基于 Plotly 的交互式 UpSet 图，支持复制交集与成员详情。 |
-| [functionR](https://github.com/Rbunensi/functionR) | Utilities for embedding ggplot and Plotly previews in HTML reports. 用于在 Quarto/R Markdown HTML 报告中嵌入图形预览与下拉选择器。 |
+| [resultShelf](https://github.com/Rbunensi/resultShelf) | Compact interactive galleries for plots, tables, images, and widgets in HTML reports. 用于在 Quarto/R Markdown HTML 报告中整理并浏览图形、表格、图片和交互组件。 |
 
 ## Get started · 快速开始
 
 ```r
 # install.packages("remotes")
 remotes::install_github("Rbunensi/upsetly")
-remotes::install_github("Rbunensi/functionR")
+remotes::install_github("Rbunensi/resultShelf")
 ```
 
 ## Focus · 关注方向
